@@ -9,4 +9,5 @@ public class m1 {
     String m1="0";
     int mi1=1;
     String new1="";
+    String new2="";
 }
