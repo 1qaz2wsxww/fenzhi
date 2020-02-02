@@ -10,4 +10,6 @@ public class m1 {
     int mi1=1;
     String m2="";
     String new1="";
+    String new2="";
+    String new4="";
 }
