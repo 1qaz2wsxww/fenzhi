@@ -9,6 +9,6 @@ package com.ngari;
 
 public class m4 {
     public static void main(String[] args) {
-        System.out.println("m4mmm4");
+        System.out.println("m4.1");
     }
 }
