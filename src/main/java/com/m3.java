@@ -9,6 +9,6 @@ package com;
 
 public class m3 {
     public static void main(String[] args) {
-        System.out.println("m3");
+        System.out.println("mmm3");
     }
 }
