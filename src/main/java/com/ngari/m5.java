@@ -10,5 +10,6 @@ package com.ngari;
 public class m5 {
     public static void main(String[] args) {
         System.out.println("m5.1");
+        System.out.println("m666");
     }
 }
