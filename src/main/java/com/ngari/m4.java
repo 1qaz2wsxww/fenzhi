@@ -11,5 +11,6 @@ public class m4 {
     public static void main(String[] args) {
         System.out.println("m4.1");
         System.out.println("m555");
+        System.out.println("6666");
     }
 }
