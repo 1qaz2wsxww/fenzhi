@@ -17,5 +17,6 @@ public class m4 {
         System.out.println("888");
 
         System.out.println("bbb");
+        System.out.println("ccc");
     }
 }
