@@ -12,5 +12,6 @@ public class m4 {
         System.out.println("m4.1");
         System.out.println("m555");
         System.out.println("6666");
+        System.out.println("777");
     }
 }
